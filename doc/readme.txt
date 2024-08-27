@@ -1,0 +1,6 @@
+ULTIMATE POKEMON SHOWDOWN
+My project is a combination of the online game, Pokemon Showdown, and the Game Boy/Visual Boy Advance Game created by Mind Freak, Pokemon Emerald. Using battle backgrounds and art inspired by Pokemon Emerald and an original combat system, Ultimate Pokemon Showdown (UPS) is a game that will allow you to choose a team of two pokemon, from a selection of 6. You will start with cash to buy some combat-related items before battling against a team of three enemy Pokemon, controlled by a computer AI. You win if you reduce the hitpoints of all three enemy Pokemon to zero, and lose if your Pokemon lose their hit points before you are able to defeat the enemy.
+To run the game, you must run it in the file titled main.py. After unpacking the ZIP file, download all the contents into the same folder. Ensure that they are located in the same folder as main.py, otherwise the game will not be able to read these files and cannot run. The files buttons.py, pokemonCards.py, save1.py, save2.py, and save3.py are necessary for the game, but are not the files you want to run. Run main.py to launch the game. 
+No libraries are necessary to run the game besides the standard python library.
+No shortcut commands exist for this game.
+The font you must download is called Pokemon Fire Red, and it is located in the ZIP file as pokemon_fire_red.ttf.
